@@ -8,7 +8,7 @@ class Doodad
   public double getNum(){
     return myNum;
   }
-  public void setNum(double n){
-    n = myNum;
+  public void setNum(float _myNum){
+    myNum = _myNum;
   }
 }
